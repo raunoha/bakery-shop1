@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+th:first-child,
+td:first-child {
+  font-weight: bold;
+}
+
+.avatar-img{
+  height: 70px;
+  width: 70px;
+}
+
+/*TODO: Set the font weight of the first table column to bold*/
